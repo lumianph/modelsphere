@@ -62,7 +62,7 @@ The model is served through the routing layer, at `http://openresty.llm-route.sv
 
 **Method 2: Using the GUI platform**
 
-Alternatively, you can use the GUI platform to deploy a model.
+Alternatively, you can use the GUI console to deploy a model ([read more](https://github.com/modelsphere/console)).
 
 ![image-20261008152111862](docs/model_catalog.png)
 

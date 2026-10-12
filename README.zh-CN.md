@@ -62,7 +62,7 @@ helm upgrade --install qwen modelsphere/sglang -n llm-demo --create-namespace \
 
 **方式二：使用图形化平台**
 
-你也可以通过图形化平台来部署模型。
+你也可以通过图形化控制平台来部署模型（[了解更多](https://github.com/modelsphere/console)）。
 
 ![image-20261008152111862](docs/model_catalog.png)
 
