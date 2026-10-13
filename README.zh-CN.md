@@ -1,4 +1,6 @@
-# ModelSphere：面向大模型推理的生产级基础设施
+![logo-modelsphere](docs/logo-modelsphere.png)
+
+# 面向大模型推理的生产级基础设施
 
 <p align="center">
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></a>

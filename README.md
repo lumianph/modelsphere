@@ -1,4 +1,6 @@
-# ModelSphere: Production-Grade Infrastructure for LLM Inference
+![logo-modelsphere](docs/logo-modelsphere.png)
+
+# Production-Grade Infrastructure for LLM Inference
 
 <p align="center">
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></a>
@@ -9,7 +11,6 @@
 <p align="center">
   English | <a href="./README.zh-CN.md">简体中文</a>
 </p>
-
 
 ## Overview
 
